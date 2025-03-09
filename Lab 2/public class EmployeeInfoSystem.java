@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class EmployeeInfoSystem { // Removed 'public' to match file name requirement
+class EmployeeInfoSystem {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             // User Input
